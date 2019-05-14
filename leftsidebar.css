@@ -1,9 +1,9 @@
 @charset "UTF-8";
 .acs-side-bar {
-	background-color: #fff
+	background-color: #404E67
 }
 .acs-tree-item, .acs-side-bar a, .acs-side-bar td a, #acs-nav-list-main .acs-nav-item-label, #acs-nav-list-quick .acs-nav-item-label, .acs-nav-list .acs-nav-item-label, .acs-nav-sections p, .acs-tree-item .node-title, .acs-side-bar-flyout h2 {
-	color: #3b414a
+	color: #fafafa
 }
 .acs-side-bar .child-item>a:hover, .acs-side-bar .parent-item>a:hover, .acs-side-bar-flyout .child-item>a:hover, .acs-side-bar-flyout .parent-item>a:hover {
 	text-decoration: underline
