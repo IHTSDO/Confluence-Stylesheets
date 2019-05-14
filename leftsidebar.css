@@ -1,0 +1,62 @@
+.acs-side-bar {
+	background-color: #f4f5f7
+}
+.acs-tree-item, .acs-side-bar a, .acs-side-bar td a, #acs-nav-list-main .acs-nav-item-label, #acs-nav-list-quick .acs-nav-item-label, .acs-nav-list .acs-nav-item-label, .acs-nav-sections p, .acs-tree-item .node-title, .acs-side-bar-flyout h2 {
+	color: #42526e
+}
+.acs-side-bar .child-item>a:hover, .acs-side-bar .parent-item>a:hover, .acs-side-bar-flyout .child-item>a:hover, .acs-side-bar-flyout .parent-item>a:hover {
+	text-decoration: underline
+}
+.favourite-space-icon.disabled button {
+	color: #a5adba;
+}
+
+.acs-side-bar-space-info .avatar-img-container .avatar-img-wrapper img.avatar-img, #image-holder .small-logo-wrapper img {
+	background-color: white
+}
+.acs-side-bar-flyout ul li a {
+	color: #42526e
+}
+.acs-side-bar .current-item .acs-nav-item-link, .collapsed .quick-links-section:hover, .collapsed .advanced-links-section:hover, .collapsed .ia-secondary-header-title.wiki .parent-item>a:hover, .collapsed .ia-secondary-header-title.page-tree:hover, .acs-side-bar-flyout li.acs-tree-item a:hover, .acs-side-bar-flyout li.acs-tree-item a:focus, li.acs-nav-item .acs-nav-item-link:hover, li.acs-nav-item .acs-nav-item-link:focus {
+	background-color: #dfe1e5;
+	text-decoration: none;
+}
+.acs-side-bar .tip a {
+	color: #0052cc
+}
+table.acs-nav-list>tbody>tr, table.acs-nav-list>tbody>tr:hover td, table.acs-nav-list>tbody>tr:first-child td {
+	background: transparent;
+	border: 0
+}
+.acs-tree-item .leaf .icon {
+	background: #42526e;
+}
+.ia-secondary-header-title.wiki, .ia-secondary-currentPage-title .label {
+	color: #42526e;
+}
+
+.personal-space-logo-hint {
+	margin-bottom: 20px
+}
+.aui-inline-dialog .contents.acs-side-bar-flyout {
+	padding: 15px 10px
+}
+.acs-side-bar-flyout .create-child-page-link {
+	margin-bottom: -10px
+}
+.acs-nav-sections .quick-links-header a, .acs-nav-sections .page-tree-header a {
+	margin: 10px 0 0 10px;
+	float: right
+}
+.acs-nav-sections .ia-quick-links-header-title, .acs-nav-sections .quick-links-header h5, .ia-quick-links-header-title {
+	display: inline-block;
+	padding: 0 10px;
+	margin-left: 0
+}
+.acs-nav-list-page-tree-section .page-tree-header h5 {
+	display: inline-block
+}
+.space-favourite {
+	background-color: transparent;
+	color: #42526e;
+}
